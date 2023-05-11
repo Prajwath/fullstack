@@ -1,0 +1,12 @@
+order_id,quantity_ordered,sales_price,year_id,productline,state
+10,900,80,2021,trucks,CA
+11,100,70,2022,trucks,SF
+12,200,60,2021,cars,SF
+13,600,50,2020,motercycles,SF
+14,400,40,2022,motercycles,CA
+15,900,30,2022,motercycles,NY
+16,700,20,2021,cars,NY
+17,300,10,2021,cars,MA
+18,200,80,2022,cars,MA
+19,100,60,2020,trucks,SF
+20,700,50,2021,trucks,SF
